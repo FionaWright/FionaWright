@@ -6,6 +6,8 @@ My skills cover a broad area including assembly, gamedev, maths/stats/physics an
 I'm comfortable in graphics APIs and GPU debuggers/profilers such as RenderDoc, PIX and NSight Graphics  
 Currently a third year computer science student at Trinity College Dublin  
 
+Email: fiona.wgt@gmail.com
+
 ## Work Experience
 ### Qualcomm - Graphics Internship 5/2025-8/2025
 Worked on graphics related systems using C++, HLSL and Python  

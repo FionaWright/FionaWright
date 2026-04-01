@@ -2,8 +2,6 @@
 ## About Me
 
 Graphics Programmer / Real-Time Rendering Engineer focused on DX12, HLSL and low-level systems  
-My skills cover a broad area including assembly, gamedev, maths/stats/physics and data analysis  
-I'm comfortable in graphics APIs and GPU debuggers/profilers such as RenderDoc, PIX and NSight Graphics  
 Currently a third year computer science student at Trinity College Dublin  
 
 Email: fiona.wgt@gmail.com

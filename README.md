@@ -1,6 +1,6 @@
 
 ## About Me
 
-Graphics Programmer / Real-Time Rendering Engineer focused on DX12, HLSL and low-level systems  
+Graphics Programmer / Rendering Engineer with a focus on DirectX12, HLSL and path-tracing
 
 Email: fiona.wgt@gmail.com
